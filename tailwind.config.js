@@ -3,8 +3,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        // nunitio:Nunito,
-      }
+           Nunito:'Nunito',
+      },
     },
   },
   plugins: [],
