@@ -18,8 +18,18 @@ export const Main = () => {
      </button>
    </div>
     </header>
-    <main>
-
+    <main className='bg-white.card-white  '>
+    <div id='tasks'>
+      <div id="task">
+        <div className="category">
+          <h5>Learning</h5>
+          </div>
+          <div>
+            <h1>Learning Mern stack</h1>
+            <spand>2022-10-01</spand>
+          </div>
+        </div>
+      </div>
     </main>
 
   </section>
